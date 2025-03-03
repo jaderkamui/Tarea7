@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jader Munoz Marzo</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome">Bienvenido: </string>
+    <string name="logout">Cerrar Sesión</string>
+</resources>
